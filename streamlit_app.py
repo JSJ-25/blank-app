@@ -7,7 +7,7 @@ col1,col2 = st.columns([2,3])
 
 with col1 :
   # column 1 에 담을 내용
-  st.title('여기는 1 열 ')
+  st.title('이름 변경으로 테스트 ')
 with col2 :
   # column 2 에 담을 내용
   st.title('여기는 2열')
